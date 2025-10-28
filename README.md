@@ -11,7 +11,7 @@ Original TP authored and maintained by Achille Baucher. See the upstream referen
 This repository reorganises the TP, offers bilingual notebooks, and adds simple installers and Windows one-file executables.
 
 ## How to use
-- **No Python installed**: download the Windows executable in "Releases" and run it. Two variants exist, one per language.
+- **No Python installed**: download the Windows executable in "Releases" and run it. Two variants exist, one per language (Always download your .ipynb notebook to keep your progress, and reload it each time you run the executable).
   - **TP-World3-FR.exe** for French
   - **TP-World3-EN.exe** for English
 - **With Python**: use the installer in the `installers/` folder for your platform.
