@@ -27,4 +27,5 @@ if not os.path.isfile("TP.ipynb"):
 
 	os.system("clear && . dnovenv/bin/activate && jupyter-lab TP.ipynb --ip=0.0.0.0")
 else:
+
 	os.system(". dnovenv/bin/activate && jupyter-lab TP.ipynb --ip=0.0.0.0")
