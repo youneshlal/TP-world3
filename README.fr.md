@@ -1,8 +1,8 @@
 <p align="right"><a href="README.md">English</a> | <b>Français</b></p>
 
-# TP World3 (adapté du TP d’Achille Baucher)
+# TP World3 (adapté du TP d'Achille Baucher)
 
-Séance pratique modélisant les interactions entre population, ressources et industrie à l’aide du modèle World3.
+Séance pratique modélisant les interactions entre population, ressources et industrie à l'aide du modèle World3.
 
 ## Provenance
 TP original conçu et maintenu par Achille Baucher. Référence amont et ressources :
@@ -10,11 +10,11 @@ TP original conçu et maintenu par Achille Baucher. Référence amont et ressour
 
 Ce dépôt réorganise le TP, propose des notebooks bilingues et ajoute des installateurs simples ainsi que des exécutables Windows monofichier.
 
-## Mode d’emploi
-- **Sans Python installé** : téléchargez l’exécutable Windows dans « Releases » et lancez-le. Deux variantes existent, une par langue.
+## Mode d'emploi
+- **Sans Python installé** : téléchargez l'exécutable Windows dans « Releases » et lancez-le. Deux variantes existent, une par langue (Téléchargez toujours votre notebook .ipynb pour conserver votre progression, et rechargez-le à chaque exécution de l'exécutable).
   - **TP-World3-FR.exe** pour le français
-  - **TP-World3-EN.exe** pour l’anglais
-- **Avec Python** : utilisez l’installateur adapté dans le répertoire `installers/`.
+  - **TP-World3-EN.exe** pour l'anglais
+- **Avec Python** : utilisez l'installateur adapté dans le répertoire `installers/`.
   - `setuponwindows.py` pour Windows
   - `setuponlinux.py` pour Linux/macOS
 
@@ -31,4 +31,4 @@ Ce dépôt réorganise le TP, propose des notebooks bilingues et ajoute des inst
 - `LICENSE` et métadonnées
 
 ## Notes
-- Les installateurs réutilisent les fichiers existants et évitent d’écraser le travail utilisateur.
+- Les installateurs réutilisent les fichiers existants et évitent d'écraser le travail utilisateur.
